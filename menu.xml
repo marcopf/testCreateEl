@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+        <menu-lable id="btc">Bitcoin</menu-lable>
+        <menu-lable id="popLazio">Popolazione Lazio</menu-lable>
+        <subMenu-lable id="popLazio">Per Provincia</subMenu-lable>
+        <subMenu-lable id="popLazio">Per Comune</subMenu-lable>
+        <menu-lable id="datiCovid">Dati Covid</menu-lable>
+        <subMenu-lable id="datiCovid">Dati Covid Per Regione</subMenu-lable>
+        <subMenu-lable id="datiCovid">Dati Covid Per Comune</subMenu-lable>
+        <menu-lable id="sistemaS">Sistema solare</menu-lable>
+
+</root>
